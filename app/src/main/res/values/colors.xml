@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black_overlay">#14000000</color>
+    <color name="white">#ffffff</color>
+    <color name="whitetr">#90ffffff</color>
+
+    <color name="oil_">#484848</color>
+    <color name="sub_text">#757575</color>
+    <color name="background">#f5f5f5</color>
+    <color name="grey">#323a45</color>
+    <color name="text_a">#b8c2c7</color>
+    <color name="iron">#b8c2c7</color>
+    <color name="iron_sales">#e1e0e1</color>
+    <color name="aluminum">#b8c2c7</color>
+    <color name="accent">#FFFFFF</color>
+    <color name="primary_dark">#ff243f</color>
+    <item name="greennew" type="color">#7ED320</item>
+    <item name="green_" type="color">#05bca6</item>
+    <color name="text_light">#a2a8b2</color>
+    <color name="view_separator">#ebebeb</color>
+
+    <item name="card_red" type="color">#FE495A</item>
+    <item name="card_green" type="color">#05BCA6</item>
+    <item name="card_orange" type="color">#FDC466</item>
+    <item name="_card_red" type="color">#ccFE495A</item>
+    <item name="_card_green" type="color">#cc05BCA6</item>
+    <item name="_card_orange" type="color">#ccFDC466</item>
+    <item name="_card_black" type="color">#cc000000</item>
+
+    <integer-array name="mapPins">
+        <item>@color/card_red</item>
+        <item>@color/card_green</item>
+        <item>@color/card_orange</item>
+    </integer-array>
+
+    <integer-array name="cardcolors">
+        <item>@color/_card_red</item>
+        <item>@color/_card_green</item>
+        <item>@color/_card_orange</item>
+    </integer-array>
+</resources>
